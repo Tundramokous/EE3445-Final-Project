@@ -1,0 +1,12 @@
+cd $PBS_O_WORKDIR
+echo "* Hello world from compute server `hostname`!"
+echo "* The current directory is ${PWD}."
+echo "* Compute server's CPU model and number of logical CPUs:"
+lscpu | grep 'Model name\\|^CPU(s)'
+echo "* Python available to us:"
+which python
+python --version
+echo "* The job can create files, and they will be visible back in the Notebook." > newfile.txt
+sleep 10
+echo "*Bye"
+# Remember to have an empty line at the end of the file; otherwise the last command will not run

@@ -1,0 +1,4 @@
+python: can't open file '/home/u134923/csula-ee3445-final-project/c3_analyzing_performance/ParallelCode.py': [Errno 2] No such file or directory
+Command exited with non-zero status 2
+0.05user 0.02system 0:00.09elapsed 80%CPU (0avgtext+0avgdata 10312maxresident)k
+0inputs+8outputs (0major+1279minor)pagefaults 0swaps

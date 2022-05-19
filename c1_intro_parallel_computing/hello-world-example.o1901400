@@ -1,0 +1,23 @@
+
+########################################################################
+#      Date:           Sun 08 May 2022 05:48:41 PM PDT
+#    Job ID:           1901400.v-qsvr-1.aidevcloud
+#      User:           u134923
+# Resources:           neednodes=1:batch:ppn=2,nodes=1:batch:ppn=2,walltime=06:00:00
+########################################################################
+
+* Hello world from compute server s001-n009!
+* The current directory is /home/u134923/csula-ee3445-final-project/c1_intro_parallel_computing.
+* Compute server's CPU model and number of logical CPUs:
+CPU(s):                          24
+Model name:                      Intel(R) Xeon(R) Gold 6128 CPU @ 3.40GHz
+* Python available to us:
+/glob/development-tools/versions/oneapi/2022.1.2/oneapi/intelpython/latest/bin/python
+Python 3.9.7 :: Intel Corporation
+ *Bye
+
+########################################################################
+# End of output for job 1901400.v-qsvr-1.aidevcloud
+# Date: Sun 08 May 2022 05:48:56 PM PDT
+########################################################################
+
