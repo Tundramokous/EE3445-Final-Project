@@ -1,0 +1,5 @@
+python: can't open file '/home/u134923/csula-ee3445-final-project/c3_analyzing_performance/ParallelCode.py': [Errno 2] No such file or directory
+Command exited with non-zero status 2
+0.03user 0.04system 0:00.08elapsed 79%CPU (0avgtext+0avgdata 10156maxresident)k
+0inputs+8outputs (0major+1275minor)pagefaults 0swaps
+/var/spool/torque/mom_priv/epilogue.d//100-resetpcie.epilogue: line 10: echo: write error: No such device
